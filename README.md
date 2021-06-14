@@ -1,2 +1,2 @@
-# Assignment2
-Assignment 2 for web dev class
+# WebDevClass
+Practical web dev summer class repo for assignments/code
